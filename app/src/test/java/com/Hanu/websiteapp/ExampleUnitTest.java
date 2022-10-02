@@ -1,4 +1,4 @@
-package com.Hanu.webviewdemo;
+package com.Hanu.websiteapp;
 
 import org.junit.Test;
 
