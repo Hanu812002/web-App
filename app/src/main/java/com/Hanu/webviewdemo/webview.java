@@ -1,4 +1,4 @@
-package com.sandipbhattacharya.webviewdemo;
+package com.Hanu.webviewdemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
